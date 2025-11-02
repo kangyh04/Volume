@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\studying\\volume\\volume\\source\\volume\\volume.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\studying\\volume\\volume\\intermediate\\build\\win64\\x64\\volumeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\studying\\volume\\volume\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\volume\\definitions.volume.h",
+            "d:\\studying\\volume\\volume\\source\\volume\\volume.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

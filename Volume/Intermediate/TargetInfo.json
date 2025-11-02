@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Volume",
+			"Path": "..\\Source\\Volume.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VolumeEditor",
+			"Path": "..\\Source\\VolumeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

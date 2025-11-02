@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Volume.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/Studying/Volume/Volume/Intermediate/Build/Win64/x64/VolumeEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/Studying/Volume/Volume/Intermediate/Build/Win64/x64/UnrealEditor/Development/Volume/Volume.cpp.obj"
+"D:/Studying/Volume/Volume/Intermediate/Build/Win64/x64/UnrealEditor/Development/Volume/PerModuleInline.gen.cpp.obj"
+"D:/Studying/Volume/Volume/Intermediate/Build/Win64/x64/UnrealEditor/Development/Volume/Default.rc2.res"
+/OUT:"D:/Studying/Volume/Volume/Intermediate/Build/Win64/x64/UnrealEditor/Development/Volume/UnrealEditor-Volume.lib"
